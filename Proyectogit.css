@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rgb(89, 187, 50);
+    background-color: rgb(227, 236, 223);
 }
 
 header{
@@ -19,12 +19,14 @@ header{
   
 }
 
-.cabecera{
+.Introducción{
     color:rgb(226, 43, 58);
     display: flex;
-    position: relative;
-    top: 1%; right: -3%;
-    font-size: 20px;
+    justify-content: center;
+    margin: 2%;
+    font-size: 50px;
+   
+
 }
 
 .Aprendiendo-GIT{
@@ -50,9 +52,23 @@ header{
 }
 
 nav {
-    padding-right: 101px;
+    padding-right: 80px;
     display: flex;
-    justify-content: space-between;
-    font-size: 3em;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 2em;
+}
+
+.Elmejoraprendizajeespracticando{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    margin: 2%;
 }
 
