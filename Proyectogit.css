@@ -19,6 +19,14 @@ header{
   
 }
 
+.cabecera{
+    color:rgb(226, 43, 58);
+    display: flex;
+    position: relative;
+    top: 1%; right: -3%;
+    font-size: 20px;
+}
+
 .Aprendiendo-GIT{
     
     color:rgb(196, 144, 238);
