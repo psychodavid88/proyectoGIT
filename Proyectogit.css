@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: aqua;
+    background-color: rgb(89, 187, 50);
 }
 
 header{
@@ -21,9 +21,9 @@ header{
 
 .Aprendiendo-GIT{
     
-    color: black;
-    padding: 28px;
-    border:10px;
+    color:rgb(196, 144, 238);
+    padding: 30px;
+    border:12px;
  
    
 }
@@ -35,16 +35,16 @@ header{
 .logogit img{
 
  
-    height: 100px;
-    margin-right: 10px;
+    height: 101px;
+    margin-right: 11px;
    
 
 }
 
 nav {
-    padding-right: 100px;
+    padding-right: 101px;
     display: flex;
     justify-content: space-between;
-    font-size: 2em;
+    font-size: 3em;
 }
 
