@@ -39,8 +39,18 @@ header{
    
 }
 
+.Mauscuro2 img{
+    display: flex;
+    height: 101px;
+    justify-content: flex;
+    position: relative;
+    left: 100px;
+    
+}
+
 .logogit{
     display: flex;
+    justify-content: end;
 }
 
 .logogit img{
@@ -51,6 +61,7 @@ header{
    
 
 }
+
 
 nav {
     padding-right: 80px;
@@ -86,3 +97,10 @@ p{
     display: flex;
     justify-content: center;
 }
+
+.La-genialidad-de-GIT-20{
+    display:flex;
+    justify-content: center;
+
+}
+
