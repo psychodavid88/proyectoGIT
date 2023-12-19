@@ -31,7 +31,7 @@ header{
 
 .Aprendiendo-GIT{
     
-    color:rgb(196, 144, 238);
+    color:rgb(96, 144, 238);
     padding: 30px;
     border:12px;
     font-family: Arial;
@@ -91,6 +91,7 @@ p{
 
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 
 
